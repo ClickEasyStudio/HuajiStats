@@ -1,0 +1,6 @@
+name: HuajiStats
+version: ${project.version}
+main: top.cestudio.huajistats.HuajiStats
+author: Oxygen
+website: cestudio.top
+api-version: 1.13

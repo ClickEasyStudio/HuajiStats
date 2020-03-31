@@ -1,0 +1,6 @@
+name: HuajiStats
+version: 0.0.1 Dev
+main: top.cestudio.huajistats.HuajiStats
+author: Oxygen
+website: cestudio.top
+api-version: 1.13
